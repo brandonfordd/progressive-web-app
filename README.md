@@ -70,4 +70,3 @@ For any questions, please contact me with the information below:
 GitHub: [@brandonfordd](https://api.github.com/users/brandonfordd)
 
 Email: brandonford617@yahoo.com
-  
