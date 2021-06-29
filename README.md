@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * [Description](#description)
-* [User Story](#user-story)
 * [Acceptance](#acceptance)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -25,12 +24,6 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
-## User Story
-
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-
 ## Acceptance Criteria
 
 ```
@@ -42,19 +35,18 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Installation
 Clone the repository to your local development environment.
 ```
-git clone https://github.com/brandonfordd/notetaker.git
+git clone https://github.com/brandonfordd/progressive-web-app.git
 ```
-Navigate to the developer-profile-generator folder using the command prompt.
 
 Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, 
-and then open http://localhost:3000 in your preferred browser. The Note Taker app is live on 
-[Heroku](https://intense-retreat-13384.herokuapp.com/) for you to use as well.
+and then open http://localhost:3000 in your preferred browser. The application is live on 
+[Heroku](https://calm-crag-38234.herokuapp.com/) for you to use as well.
 
 ## Usage 
 ```
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
 ```
 
 ## Contributing
