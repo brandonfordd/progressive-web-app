@@ -160,3 +160,5 @@ if ("serviceWorker" in navigator) {
     });
   });
 }
+
+mongodb+srv://brandonford:@Colbie101@unit18-nosql.qkb3o.mongodb.net/budgetTrackerDB?retryWrites=true&w=majority
