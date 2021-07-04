@@ -54,7 +54,7 @@ SO THAT my account balance is accurate when I am traveling
 brandonfordd
 ```
 ## Tests
-![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/notetaker_preview.gif?raw=true)
+There are no test for this application!
 
 ## Questions?
 For any questions, please contact me with the information below:
